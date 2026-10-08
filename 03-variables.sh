@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=Trump
-PERSON2=Musk
+PERSON1=Lalith
+PERSON2=Manu
 
 
 
